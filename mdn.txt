@@ -34,10 +34,14 @@ http://www.wah.or.kr/Participation/technique.asp
 
 playentry.org
 
++ 선택
+소스트리에서 Local repositories
 
-소스트리
 
 
 
 
 https://github.com/seohyunStudy/wStudy_1
+
+
+https://github.com/chloeBae/JAVA-Script-STUDY.git
