@@ -1,0 +1,43 @@
+﻿mdn
+
+https://developer.mozilla.org/ko/
+
+
+압축
+js 다학
+jsdoc
+걸프, 에펙
+
+
+jsLint
+esLint 사용
+
+
+크롬에서 콘솔창으로 소스 확인 가능
+
+IE브라우저에서 컨트론 엔터로 동일하게 확인가능
+
+
+https://colorscripter.com/
+
+
+
+하코사 : 강희성
+
+
+웹접근성
+http://www.wah.or.kr/Participation/technique.asp
+
+
+디지털다임  한남동
+
+
+playentry.org
+
+
+소스트리
+
+
+
+
+https://github.com/seohyunStudy/wStudy_1
